@@ -1,0 +1,11 @@
+Here’s the checklist to make it production-ready:
+
+1) Add your resume and swap out the src attribute in the link to it.
+
+2) Swap out the paragraphs of text. Note that you’ll have to manually put the first letter of the first paragraph into the special <span> to get the giant letter effect.
+
+3) Swap out the image of my signature for yours. If you can, try to keep the same dimensions so it’ll have a good proportionate size to the plain text above it and spacing around it.
+
+4) And most importantly, please forgive me for the GIANT list of crufty CSS, haha, and just continue to ignore it for now. It’s not all absolute necessary and I’ll trim it down for you later, if working off of this repo is not a pain for you. I just quickly copied over my styles from the blog and stripped out the links to images you shouldn’t be loading. The good news is that hey, it works *shrug* and also, using a bunch of inline styles likes this loads quick for a great pagespeed score.
+
+Let me know if you have any questions!
